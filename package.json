@@ -5,7 +5,7 @@
   "description": "The node core libs for in browser usage.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webpack/node-libs-browser.git"
+    "url": "git+https://github.com/jacobbubu/node-libs-browser.git"
   },
   "dependencies": {
     "assert": "^1.1.1",
